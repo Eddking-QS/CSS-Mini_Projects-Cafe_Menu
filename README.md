@@ -1,4 +1,4 @@
-# HTML Mini Project- Café Menu
+# HTML Mini Project - Café Menu
 
 ## Description
 
