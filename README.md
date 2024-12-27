@@ -25,7 +25,7 @@ A simple menu page for the Grey House Café made with HTML and CSS.
 
 ## Live Demo
 
-[Grey House Café Menu](https://eddking-qs.github.io/CSS-Mini_Projects-Cafe_Menu/)
+[Grey House Café Menu](https://quintin-dev.github.io/CSS-Mini_Projects-Cafe_Menu/)
 
 ## Disclaimer
 
